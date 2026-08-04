@@ -1,0 +1,1562 @@
+{
+ "AC_CONCENTRATION": {
+  "bytes": 338620,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "AL_ANGELUS": {
+  "bytes": 400430,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "AL_BLESSING": {
+  "bytes": 391032,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "AL_CRUCIS": {
+  "bytes": 1154780,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "AL_CURE": {
+  "bytes": 482058,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "AL_DECAGI": {
+  "bytes": 1030616,
+  "frames": 40,
+  "h": 346,
+  "w": 775
+ },
+ "AL_DEMONBANE": {
+  "bytes": 559534,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "AL_DP": {
+  "bytes": 555232,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "AL_HEAL": {
+  "bytes": 651450,
+  "frames": 30,
+  "h": 286,
+  "w": 819
+ },
+ "AL_HOLYWATER": {
+  "bytes": 641518,
+  "frames": 30,
+  "h": 286,
+  "w": 945
+ },
+ "AL_INCAGI": {
+  "bytes": 293830,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "AL_PNEUMA": {
+  "bytes": 1189266,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "AL_RUWACH": {
+  "bytes": 1222286,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "AL_TELEPORT": {
+  "bytes": 1054468,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "AL_WARP": {
+  "bytes": 1142564,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "AM_BERSERKPITCHER": {
+  "bytes": 498680,
+  "frames": 30,
+  "h": 286,
+  "w": 671
+ },
+ "AM_CP_ARMOR": {
+  "bytes": 802992,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "AM_CP_HELM": {
+  "bytes": 803758,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "AM_CP_SHIELD": {
+  "bytes": 805780,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "AM_CP_WEAPON": {
+  "bytes": 810476,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "ASC_BREAKER": {
+  "bytes": 452614,
+  "frames": 30,
+  "h": 286,
+  "w": 1609
+ },
+ "ASC_EDP": {
+  "bytes": 782680,
+  "frames": 30,
+  "h": 286,
+  "w": 1255
+ },
+ "ASC_METEORASSAULT": {
+  "bytes": 408604,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "AS_ENCHANTPOISON": {
+  "bytes": 1024674,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "AS_GRIMTOOTH": {
+  "bytes": 762678,
+  "frames": 40,
+  "h": 346,
+  "w": 1997
+ },
+ "AS_POISONREACT": {
+  "bytes": 504488,
+  "frames": 30,
+  "h": 286,
+  "w": 695
+ },
+ "AS_SONICBLOW": {
+  "bytes": 874442,
+  "frames": 40,
+  "h": 346,
+  "w": 919
+ },
+ "AS_SPLASHER": {
+  "bytes": 924456,
+  "frames": 40,
+  "h": 346,
+  "w": 989
+ },
+ "AS_VENOMDUST": {
+  "bytes": 1021830,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "BA_APPLEIDUN": {
+  "bytes": 784914,
+  "frames": 30,
+  "h": 286,
+  "w": 857
+ },
+ "BA_ASSASSINCROSS": {
+  "bytes": 1209160,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "BA_DISSONANCE": {
+  "bytes": 1349242,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "BA_FROSTJOKE": {
+  "bytes": 616044,
+  "frames": 40,
+  "h": 346,
+  "w": 1065
+ },
+ "BA_PANGVOICE": {
+  "bytes": 743430,
+  "frames": 40,
+  "h": 346,
+  "w": 1067
+ },
+ "BA_POEMBRAGI": {
+  "bytes": 1239684,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "BA_WHISTLE": {
+  "bytes": 1206008,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "BD_ADAPTATION": {
+  "bytes": 610098,
+  "frames": 30,
+  "h": 286,
+  "w": 751
+ },
+ "BD_DRUMBATTLEFIELD": {
+  "bytes": 1050912,
+  "frames": 40,
+  "h": 346,
+  "w": 843
+ },
+ "BD_ETERNALCHAOS": {
+  "bytes": 1267738,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "BD_INTOABYSS": {
+  "bytes": 1065720,
+  "frames": 40,
+  "h": 346,
+  "w": 847
+ },
+ "BD_LULLABY": {
+  "bytes": 1064552,
+  "frames": 40,
+  "h": 346,
+  "w": 879
+ },
+ "BD_RICHMANKIM": {
+  "bytes": 1055762,
+  "frames": 40,
+  "h": 346,
+  "w": 833
+ },
+ "BD_RINGNIBELUNGEN": {
+  "bytes": 1079348,
+  "frames": 40,
+  "h": 346,
+  "w": 873
+ },
+ "BD_ROKISWEIL": {
+  "bytes": 1251184,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "BD_SIEGFRIED": {
+  "bytes": 1097184,
+  "frames": 40,
+  "h": 346,
+  "w": 875
+ },
+ "BS_ADRENALINE": {
+  "bytes": 1264426,
+  "frames": 40,
+  "h": 346,
+  "w": 1187
+ },
+ "BS_ADRENALINE2": {
+  "bytes": 1233338,
+  "frames": 40,
+  "h": 346,
+  "w": 1185
+ },
+ "BS_HAMMERFALL": {
+  "bytes": 988506,
+  "frames": 40,
+  "h": 346,
+  "w": 913
+ },
+ "BS_MAXIMIZE": {
+  "bytes": 781724,
+  "frames": 30,
+  "h": 286,
+  "w": 821
+ },
+ "BS_OVERTHRUST": {
+  "bytes": 440624,
+  "frames": 30,
+  "h": 286,
+  "w": 1323
+ },
+ "BS_REPAIRWEAPON": {
+  "bytes": 567750,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "BS_WEAPONPERFECT": {
+  "bytes": 683494,
+  "frames": 30,
+  "h": 286,
+  "w": 747
+ },
+ "CG_ARROWVULCAN": {
+  "bytes": 605390,
+  "frames": 30,
+  "h": 286,
+  "w": 2197
+ },
+ "CG_LONGINGFREEDOM": {
+  "bytes": 400636,
+  "frames": 30,
+  "h": 286,
+  "w": 625
+ },
+ "CG_MARIONETTE": {
+  "bytes": 521564,
+  "frames": 30,
+  "h": 286,
+  "w": 1161
+ },
+ "CG_MOONLIT": {
+  "bytes": 340718,
+  "frames": 30,
+  "h": 286,
+  "w": 699
+ },
+ "CG_SPECIALSINGER": {
+  "bytes": 928296,
+  "frames": 30,
+  "h": 286,
+  "w": 1519
+ },
+ "CG_TAROTCARD": {
+  "bytes": 458252,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "CR_ACIDDEMONSTRATION": {
+  "bytes": 921348,
+  "frames": 40,
+  "h": 346,
+  "w": 1067
+ },
+ "CR_CULTIVATION": {
+  "bytes": 949970,
+  "frames": 40,
+  "h": 346,
+  "w": 797
+ },
+ "CR_DEFENDER": {
+  "bytes": 660944,
+  "frames": 30,
+  "h": 286,
+  "w": 775
+ },
+ "CR_DEVOTION": {
+  "bytes": 531966,
+  "frames": 30,
+  "h": 286,
+  "w": 931
+ },
+ "CR_FULLPROTECTION": {
+  "bytes": 536760,
+  "frames": 30,
+  "h": 286,
+  "w": 851
+ },
+ "CR_GRANDCROSS": {
+  "bytes": 691494,
+  "frames": 30,
+  "h": 286,
+  "w": 755
+ },
+ "CR_HOLYCROSS": {
+  "bytes": 1023540,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "CR_PROVIDENCE": {
+  "bytes": 716744,
+  "frames": 30,
+  "h": 286,
+  "w": 871
+ },
+ "CR_REFLECTSHIELD": {
+  "bytes": 663090,
+  "frames": 30,
+  "h": 286,
+  "w": 775
+ },
+ "CR_SHIELDBOOMERANG": {
+  "bytes": 1131828,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "CR_SHIELDCHARGE": {
+  "bytes": 947478,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "CR_SHRINK": {
+  "bytes": 406844,
+  "frames": 30,
+  "h": 286,
+  "w": 853
+ },
+ "CR_SLIMPITCHER": {
+  "bytes": 1158554,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "CR_SPEARQUICKEN": {
+  "bytes": 300070,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "DC_DONTFORGETME": {
+  "bytes": 1389400,
+  "frames": 40,
+  "h": 346,
+  "w": 1185
+ },
+ "DC_FORTUNEKISS": {
+  "bytes": 1335942,
+  "frames": 40,
+  "h": 346,
+  "w": 1187
+ },
+ "DC_HUMMING": {
+  "bytes": 1387410,
+  "frames": 40,
+  "h": 346,
+  "w": 1187
+ },
+ "DC_SCREAM": {
+  "bytes": 496946,
+  "frames": 40,
+  "h": 346,
+  "w": 1185
+ },
+ "DC_SERVICEFORYOU": {
+  "bytes": 1085678,
+  "frames": 40,
+  "h": 346,
+  "w": 1001
+ },
+ "DC_UGLYDANCE": {
+  "bytes": 1354158,
+  "frames": 40,
+  "h": 346,
+  "w": 1185
+ },
+ "DC_WINKCHARM": {
+  "bytes": 653540,
+  "frames": 40,
+  "h": 346,
+  "w": 1067
+ },
+ "GS_ADJUSTMENT": {
+  "bytes": 716146,
+  "frames": 40,
+  "h": 346,
+  "w": 1185
+ },
+ "GS_BULLSEYE": {
+  "bytes": 669550,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "GS_DESPERADO": {
+  "bytes": 682932,
+  "frames": 30,
+  "h": 286,
+  "w": 825
+ },
+ "GS_DISARM": {
+  "bytes": 774938,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "GS_DUST": {
+  "bytes": 739196,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "GS_FLING": {
+  "bytes": 716652,
+  "frames": 40,
+  "h": 346,
+  "w": 1067
+ },
+ "GS_FULLBUSTER": {
+  "bytes": 841186,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "GS_GATLINGFEVER": {
+  "bytes": 790494,
+  "frames": 40,
+  "h": 346,
+  "w": 1187
+ },
+ "GS_INCREASING": {
+  "bytes": 540146,
+  "frames": 30,
+  "h": 286,
+  "w": 1169
+ },
+ "GS_MADNESSCANCEL": {
+  "bytes": 522390,
+  "frames": 30,
+  "h": 286,
+  "w": 853
+ },
+ "GS_MAGICALBULLET": {
+  "bytes": 434788,
+  "frames": 30,
+  "h": 286,
+  "w": 797
+ },
+ "GS_PIERCINGSHOT": {
+  "bytes": 578484,
+  "frames": 40,
+  "h": 346,
+  "w": 3743
+ },
+ "GS_RAPIDSHOWER": {
+  "bytes": 924352,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "GS_SPREADATTACK": {
+  "bytes": 639140,
+  "frames": 40,
+  "h": 346,
+  "w": 851
+ },
+ "GS_TRACKING": {
+  "bytes": 870862,
+  "frames": 40,
+  "h": 346,
+  "w": 1067
+ },
+ "GS_TRIPLEACTION": {
+  "bytes": 898264,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "HP_ASSUMPTIO": {
+  "bytes": 490326,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "HT_DETECTING": {
+  "bytes": 934990,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "HT_REMOVETRAP": {
+  "bytes": 971784,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "HT_SKIDTRAP": {
+  "bytes": 1286312,
+  "frames": 40,
+  "h": 346,
+  "w": 1713
+ },
+ "HT_SPRINGTRAP": {
+  "bytes": 991952,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "HW_GANBANTEIN": {
+  "bytes": 500384,
+  "frames": 30,
+  "h": 286,
+  "w": 737
+ },
+ "HW_GRAVITATION": {
+  "bytes": 720644,
+  "frames": 30,
+  "h": 286,
+  "w": 853
+ },
+ "HW_MAGICCRASHER": {
+  "bytes": 359820,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "HW_MAGICPOWER": {
+  "bytes": 468626,
+  "frames": 30,
+  "h": 286,
+  "w": 905
+ },
+ "HW_NAPALMVULCAN": {
+  "bytes": 687008,
+  "frames": 30,
+  "h": 286,
+  "w": 837
+ },
+ "HW_SOULDRAIN": {
+  "bytes": 592456,
+  "frames": 30,
+  "h": 286,
+  "w": 1159
+ },
+ "KN_BOWLINGBASH": {
+  "bytes": 625398,
+  "frames": 40,
+  "h": 346,
+  "w": 801
+ },
+ "KN_BRANDISHSPEAR": {
+  "bytes": 1116128,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "KN_ONEHAND": {
+  "bytes": 815464,
+  "frames": 40,
+  "h": 346,
+  "w": 1185
+ },
+ "KN_PIERCE": {
+  "bytes": 771764,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "KN_SPEARBOOMERANG": {
+  "bytes": 905832,
+  "frames": 40,
+  "h": 346,
+  "w": 2057
+ },
+ "KN_SPEARSTAB": {
+  "bytes": 987120,
+  "frames": 40,
+  "h": 346,
+  "w": 1089
+ },
+ "KN_TWOHANDQUICKEN": {
+  "bytes": 785608,
+  "frames": 40,
+  "h": 346,
+  "w": 1095
+ },
+ "LK_AURABLADE": {
+  "bytes": 435246,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "LK_BERSERK": {
+  "bytes": 339694,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "LK_CONCENTRATION": {
+  "bytes": 277658,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "LK_FURY": {
+  "bytes": 361236,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "LK_HEADCRUSH": {
+  "bytes": 376920,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "LK_JOINTBEAT": {
+  "bytes": 303246,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "LK_SPIRALPIERCE": {
+  "bytes": 491308,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "MC_CARTREVOLUTION": {
+  "bytes": 866468,
+  "frames": 40,
+  "h": 346,
+  "w": 1113
+ },
+ "MC_LOUD": {
+  "bytes": 670528,
+  "frames": 30,
+  "h": 286,
+  "w": 893
+ },
+ "MG_COLDBOLT": {
+  "bytes": 646272,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "MG_ENERGYCOAT": {
+  "bytes": 332612,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "MG_FIREBALL": {
+  "bytes": 842384,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "MG_FIREBOLT": {
+  "bytes": 1152816,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "MG_FIREWALL": {
+  "bytes": 1377362,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "MG_FROSTDIVER": {
+  "bytes": 762208,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "MG_LIGHTNINGBOLT": {
+  "bytes": 1280566,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "MG_NAPALMBEAT": {
+  "bytes": 1240736,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "MG_SAFETYWALL": {
+  "bytes": 1402772,
+  "frames": 40,
+  "h": 346,
+  "w": 1187
+ },
+ "MG_SIGHT": {
+  "bytes": 1393632,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "MG_SOULSTRIKE": {
+  "bytes": 1448664,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "MG_SRECOVERY": {
+  "bytes": 1149844,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "MG_STONECURSE": {
+  "bytes": 1185274,
+  "frames": 40,
+  "h": 346,
+  "w": 1123
+ },
+ "MG_THUNDERSTORM": {
+  "bytes": 1319946,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "MO_ABSORBSPIRITS": {
+  "bytes": 579638,
+  "frames": 30,
+  "h": 286,
+  "w": 1187
+ },
+ "MO_EXPLOSIONSPIRITS": {
+  "bytes": 1254692,
+  "frames": 40,
+  "h": 346,
+  "w": 1183
+ },
+ "MO_EXTREMITYFIST": {
+  "bytes": 1082884,
+  "frames": 40,
+  "h": 346,
+  "w": 971
+ },
+ "MO_FINGEROFFENSIVE": {
+  "bytes": 889136,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "MO_INVESTIGATE": {
+  "bytes": 715766,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "MO_STEELBODY": {
+  "bytes": 998924,
+  "frames": 40,
+  "h": 346,
+  "w": 801
+ },
+ "MO_TRIPLEATTACK": {
+  "bytes": 722272,
+  "frames": 40,
+  "h": 346,
+  "w": 1185
+ },
+ "NJ_BAKUENRYU": {
+  "bytes": 1039420,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "NJ_HUUJIN": {
+  "bytes": 879444,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "NJ_HYOUSENSOU": {
+  "bytes": 795450,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "NJ_HYOUSYOURAKU": {
+  "bytes": 778282,
+  "frames": 30,
+  "h": 286,
+  "w": 997
+ },
+ "NJ_ISSEN": {
+  "bytes": 810284,
+  "frames": 40,
+  "h": 346,
+  "w": 1031
+ },
+ "NJ_KAMAITACHI": {
+  "bytes": 970752,
+  "frames": 40,
+  "h": 346,
+  "w": 1155
+ },
+ "NJ_KASUMIKIRI": {
+  "bytes": 903366,
+  "frames": 40,
+  "h": 346,
+  "w": 1157
+ },
+ "NJ_KIRIKAGE": {
+  "bytes": 843662,
+  "frames": 40,
+  "h": 346,
+  "w": 1067
+ },
+ "NJ_KOUENKA": {
+  "bytes": 965964,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "NJ_RAIGEKISAI": {
+  "bytes": 1524900,
+  "frames": 40,
+  "h": 346,
+  "w": 1155
+ },
+ "NV_FIRSTAID": {
+  "bytes": 409092,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "NV_HELPANGEL": {
+  "bytes": 631158,
+  "frames": 30,
+  "h": 286,
+  "w": 677
+ },
+ "PA_PRESSURE": {
+  "bytes": 665998,
+  "frames": 30,
+  "h": 286,
+  "w": 929
+ },
+ "PA_SACRIFICE": {
+  "bytes": 363730,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "PA_SHIELDCHAIN": {
+  "bytes": 498700,
+  "frames": 30,
+  "h": 286,
+  "w": 1709
+ },
+ "PF_DOUBLECASTING": {
+  "bytes": 383680,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "PF_HPCONVERSION": {
+  "bytes": 588894,
+  "frames": 30,
+  "h": 286,
+  "w": 711
+ },
+ "PF_MEMORIZE": {
+  "bytes": 431928,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "PF_MINDBREAKER": {
+  "bytes": 592714,
+  "frames": 30,
+  "h": 286,
+  "w": 857
+ },
+ "PF_SOULBURN": {
+  "bytes": 452744,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "PF_SOULCHANGE": {
+  "bytes": 636526,
+  "frames": 30,
+  "h": 286,
+  "w": 755
+ },
+ "PR_ASPERSIO": {
+  "bytes": 760716,
+  "frames": 30,
+  "h": 286,
+  "w": 801
+ },
+ "PR_BENEDICTIO": {
+  "bytes": 1568120,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "PR_GLORIA": {
+  "bytes": 598478,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "PR_IMPOSITIO": {
+  "bytes": 607050,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "PR_KYRIE": {
+  "bytes": 786640,
+  "frames": 30,
+  "h": 286,
+  "w": 865
+ },
+ "PR_LEXAETERNA": {
+  "bytes": 1527302,
+  "frames": 40,
+  "h": 346,
+  "w": 1155
+ },
+ "PR_LEXDIVINA": {
+  "bytes": 1532036,
+  "frames": 40,
+  "h": 346,
+  "w": 1173
+ },
+ "PR_MACEMASTERY": {
+  "bytes": 1373064,
+  "frames": 40,
+  "h": 346,
+  "w": 1187
+ },
+ "PR_MAGNIFICAT": {
+  "bytes": 709324,
+  "frames": 30,
+  "h": 286,
+  "w": 735
+ },
+ "PR_MAGNUS": {
+  "bytes": 1297700,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "PR_SANCTUARY": {
+  "bytes": 1321180,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "PR_SLOWPOISON": {
+  "bytes": 683578,
+  "frames": 30,
+  "h": 286,
+  "w": 749
+ },
+ "PR_STRECOVERY": {
+  "bytes": 780590,
+  "frames": 30,
+  "h": 286,
+  "w": 821
+ },
+ "PR_SUFFRAGIUM": {
+  "bytes": 688856,
+  "frames": 30,
+  "h": 286,
+  "w": 719
+ },
+ "PR_TURNUNDEAD": {
+  "bytes": 1105976,
+  "frames": 40,
+  "h": 346,
+  "w": 1169
+ },
+ "RG_BACKSTAP": {
+  "bytes": 851302,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "RG_CLOSECONFINE": {
+  "bytes": 825354,
+  "frames": 40,
+  "h": 346,
+  "w": 1871
+ },
+ "RG_INTIMIDATE": {
+  "bytes": 743040,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "RG_RAID": {
+  "bytes": 556852,
+  "frames": 30,
+  "h": 286,
+  "w": 821
+ },
+ "RG_STEALCOIN": {
+  "bytes": 774834,
+  "frames": 40,
+  "h": 346,
+  "w": 913
+ },
+ "RG_STRIPARMOR": {
+  "bytes": 674018,
+  "frames": 40,
+  "h": 346,
+  "w": 1157
+ },
+ "RG_STRIPHELM": {
+  "bytes": 746644,
+  "frames": 40,
+  "h": 346,
+  "w": 1083
+ },
+ "RG_STRIPSHIELD": {
+  "bytes": 718108,
+  "frames": 40,
+  "h": 346,
+  "w": 1025
+ },
+ "RG_STRIPWEAPON": {
+  "bytes": 741120,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "RL_B_FLICKER_ATK": {
+  "bytes": 96214,
+  "frames": 30,
+  "h": 286,
+  "w": 300
+ },
+ "RL_FALLEN_ANGEL": {
+  "bytes": 619390,
+  "frames": 30,
+  "h": 286,
+  "w": 825
+ },
+ "RL_HAMMER_OF_GOD": {
+  "bytes": 436082,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "RL_MASS_SPIRAL": {
+  "bytes": 448534,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "RL_P_ALTER": {
+  "bytes": 341128,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "RL_QD_SHOT": {
+  "bytes": 385828,
+  "frames": 30,
+  "h": 286,
+  "w": 691
+ },
+ "RL_R_TRIP": {
+  "bytes": 520824,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SA_DELUGE": {
+  "bytes": 1052222,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "SA_DISPELL": {
+  "bytes": 765102,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "SA_ELEMENTFIRE": {
+  "bytes": 757324,
+  "frames": 40,
+  "h": 346,
+  "w": 1033
+ },
+ "SA_ELEMENTGROUND": {
+  "bytes": 746540,
+  "frames": 40,
+  "h": 346,
+  "w": 1041
+ },
+ "SA_ELEMENTWATER": {
+  "bytes": 803002,
+  "frames": 40,
+  "h": 346,
+  "w": 957
+ },
+ "SA_ELEMENTWIND": {
+  "bytes": 850976,
+  "frames": 40,
+  "h": 346,
+  "w": 1135
+ },
+ "SA_FLAMELAUNCHER": {
+  "bytes": 848802,
+  "frames": 40,
+  "h": 346,
+  "w": 1163
+ },
+ "SA_FROSTWEAPON": {
+  "bytes": 760092,
+  "frames": 40,
+  "h": 346,
+  "w": 827
+ },
+ "SA_LANDPROTECTOR": {
+  "bytes": 1220850,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "SA_LIGHTNINGLOADER": {
+  "bytes": 607470,
+  "frames": 40,
+  "h": 346,
+  "w": 807
+ },
+ "SA_MAGICROD": {
+  "bytes": 530278,
+  "frames": 30,
+  "h": 286,
+  "w": 943
+ },
+ "SA_SEISMICWEAPON": {
+  "bytes": 592362,
+  "frames": 40,
+  "h": 346,
+  "w": 803
+ },
+ "SA_SPELLBREAKER": {
+  "bytes": 959772,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "SA_VIOLENTGALE": {
+  "bytes": 1241204,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "SA_VOLCANO": {
+  "bytes": 1109716,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "SJ_FLASHKICK": {
+  "bytes": 339514,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SJ_PROMINENCEKICK": {
+  "bytes": 474274,
+  "frames": 30,
+  "h": 286,
+  "w": 623
+ },
+ "SJ_STAREMPEROR": {
+  "bytes": 555390,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SM_ENDURE": {
+  "bytes": 426794,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SM_MAGNUM": {
+  "bytes": 493898,
+  "frames": 30,
+  "h": 286,
+  "w": 689
+ },
+ "SM_PROVOKE": {
+  "bytes": 1003354,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "SN_FALCONASSAULT": {
+  "bytes": 502070,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "SN_SHARPSHOOTING": {
+  "bytes": 433634,
+  "frames": 30,
+  "h": 286,
+  "w": 1717
+ },
+ "SN_SIGHT": {
+  "bytes": 729476,
+  "frames": 30,
+  "h": 286,
+  "w": 801
+ },
+ "SN_WINDWALK": {
+  "bytes": 393626,
+  "frames": 30,
+  "h": 286,
+  "w": 853
+ },
+ "SP_KAUTE": {
+  "bytes": 610088,
+  "frames": 30,
+  "h": 286,
+  "w": 687
+ },
+ "SP_SOULCURSE": {
+  "bytes": 376500,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SP_SOULFAIRY": {
+  "bytes": 662730,
+  "frames": 30,
+  "h": 286,
+  "w": 851
+ },
+ "SP_SOULFALCON": {
+  "bytes": 669580,
+  "frames": 30,
+  "h": 286,
+  "w": 851
+ },
+ "SP_SOULGOLEM": {
+  "bytes": 677072,
+  "frames": 30,
+  "h": 286,
+  "w": 849
+ },
+ "SP_SOULSHADOW": {
+  "bytes": 678102,
+  "frames": 30,
+  "h": 286,
+  "w": 849
+ },
+ "SP_SOULUNITY": {
+  "bytes": 567564,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SP_SWHOO": {
+  "bytes": 541408,
+  "frames": 30,
+  "h": 286,
+  "w": 875
+ },
+ "ST_FULLSTRIP": {
+  "bytes": 424746,
+  "frames": 30,
+  "h": 286,
+  "w": 617
+ },
+ "ST_PRESERVE": {
+  "bytes": 328760,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "ST_REJECTSWORD": {
+  "bytes": 490088,
+  "frames": 30,
+  "h": 286,
+  "w": 617
+ },
+ "TF_DETOXIFY": {
+  "bytes": 304720,
+  "frames": 30,
+  "h": 286,
+  "w": 759
+ },
+ "TF_SPRINKLESAND": {
+  "bytes": 747154,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "TF_STEAL": {
+  "bytes": 709364,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "TK_COUNTER": {
+  "bytes": 399290,
+  "frames": 30,
+  "h": 286,
+  "w": 843
+ },
+ "TK_DOWNKICK": {
+  "bytes": 528722,
+  "frames": 30,
+  "h": 286,
+  "w": 1159
+ },
+ "TK_HIGHJUMP": {
+  "bytes": 414332,
+  "frames": 30,
+  "h": 286,
+  "w": 899
+ },
+ "TK_JUMPKICK": {
+  "bytes": 830014,
+  "frames": 40,
+  "h": 346,
+  "w": 3505
+ },
+ "TK_RUN": {
+  "bytes": 604332,
+  "frames": 40,
+  "h": 346,
+  "w": 1089
+ },
+ "TK_SEVENWIND": {
+  "bytes": 667556,
+  "frames": 30,
+  "h": 286,
+  "w": 1009
+ },
+ "TK_STORMKICK": {
+  "bytes": 688418,
+  "frames": 30,
+  "h": 286,
+  "w": 775
+ },
+ "TK_TURNKICK": {
+  "bytes": 526792,
+  "frames": 30,
+  "h": 286,
+  "w": 1183
+ },
+ "WS_CARTBOOST": {
+  "bytes": 580890,
+  "frames": 30,
+  "h": 286,
+  "w": 607
+ },
+ "WS_CARTTERMINATION": {
+  "bytes": 465296,
+  "frames": 30,
+  "h": 286,
+  "w": 681
+ },
+ "WS_MELTDOWN": {
+  "bytes": 501544,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "WS_OVERTHRUSTMAX": {
+  "bytes": 413684,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "WZ_EARTHSPIKE": {
+  "bytes": 742532,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "WZ_FIREIVY": {
+  "bytes": 577690,
+  "frames": 30,
+  "h": 286,
+  "w": 941
+ },
+ "WZ_FIREPILLAR": {
+  "bytes": 1442834,
+  "frames": 40,
+  "h": 346,
+  "w": 1403
+ },
+ "WZ_FROSTNOVA": {
+  "bytes": 268944,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "WZ_HEAVENDRIVE": {
+  "bytes": 803124,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "WZ_ICEWALL": {
+  "bytes": 513490,
+  "frames": 40,
+  "h": 346,
+  "w": 813
+ },
+ "WZ_JUPITEL": {
+  "bytes": 1007136,
+  "frames": 40,
+  "h": 346,
+  "w": 1193
+ },
+ "WZ_METEOR": {
+  "bytes": 1150810,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "WZ_QUAGMIRE": {
+  "bytes": 787156,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "WZ_SIGHTBLASTER": {
+  "bytes": 1276260,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "WZ_SIGHTRASHER": {
+  "bytes": 682720,
+  "frames": 30,
+  "h": 286,
+  "w": 821
+ },
+ "WZ_STORMGUST": {
+  "bytes": 1340070,
+  "frames": 40,
+  "h": 346,
+  "w": 1027
+ },
+ "WZ_VERMILION": {
+  "bytes": 1319006,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "WZ_WATERBALL": {
+  "bytes": 797564,
+  "frames": 40,
+  "h": 346,
+  "w": 1871
+ }
+}
