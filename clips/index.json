@@ -1,0 +1,3472 @@
+{
+ "AC_CONCENTRATION": {
+  "bytes": 338620,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 188,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Archer",
+   "date": "2026-10-19",
+   "bytes": 1161793
+  }
+ },
+ "AL_ANGELUS": {
+  "bytes": 400430,
+  "frames": 30,
+  "h": 286,
+  "w": 855,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 246,
+   "secs": 4.8,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1951590
+  }
+ },
+ "AL_BLESSING": {
+  "bytes": 391032,
+  "frames": 30,
+  "h": 286,
+  "w": 855,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 202,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1351736
+  }
+ },
+ "AL_CRUCIS": {
+  "bytes": 1154780,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 204,
+   "secs": 4.81,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 2018585
+  }
+ },
+ "AL_CURE": {
+  "bytes": 482058,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 217,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1396683
+  }
+ },
+ "AL_DECAGI": {
+  "bytes": 1030616,
+  "frames": 40,
+  "h": 346,
+  "w": 775,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 209,
+   "secs": 5.3,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1573788
+  }
+ },
+ "AL_DEMONBANE": {
+  "bytes": 559534,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "AL_DP": {
+  "bytes": 555232,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "AL_HEAL": {
+  "bytes": 651450,
+  "frames": 30,
+  "h": 286,
+  "w": 819,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 184,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1165057
+  }
+ },
+ "AL_HOLYWATER": {
+  "bytes": 641518,
+  "frames": 30,
+  "h": 286,
+  "w": 945,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 222,
+   "secs": 5.3,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 3626100
+  }
+ },
+ "AL_INCAGI": {
+  "bytes": 293830,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 204,
+   "secs": 5.31,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1440421
+  }
+ },
+ "AL_PNEUMA": {
+  "bytes": 1189266,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 164,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1382877
+  }
+ },
+ "AL_RUWACH": {
+  "bytes": 1222286,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 149,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1839979
+  }
+ },
+ "AL_TELEPORT": {
+  "bytes": 1054468,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 168,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1053799
+  }
+ },
+ "AL_WARP": {
+  "bytes": 1142564,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 171,
+   "secs": 5.3,
+   "fps": 60,
+   "job": "Acolyte",
+   "date": "2026-10-19",
+   "bytes": 1474570
+  }
+ },
+ "AM_BERSERKPITCHER": {
+  "bytes": 498680,
+  "frames": 30,
+  "h": 286,
+  "w": 671,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 236,
+   "secs": 5.32,
+   "fps": 60,
+   "job": "Alchemist",
+   "date": "2026-10-19",
+   "bytes": 1718914
+  }
+ },
+ "AM_CP_ARMOR": {
+  "bytes": 802992,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 259,
+   "secs": 6.32,
+   "fps": 60,
+   "job": "Alchemist",
+   "date": "2026-10-19",
+   "bytes": 1749081
+  }
+ },
+ "AM_CP_HELM": {
+  "bytes": 803758,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 221,
+   "secs": 6.3,
+   "fps": 60,
+   "job": "Alchemist",
+   "date": "2026-10-19",
+   "bytes": 1709105
+  }
+ },
+ "AM_CP_SHIELD": {
+  "bytes": 805780,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 253,
+   "secs": 6.29,
+   "fps": 60,
+   "job": "Alchemist",
+   "date": "2026-10-19",
+   "bytes": 1762302
+  }
+ },
+ "AM_CP_WEAPON": {
+  "bytes": 810476,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 247,
+   "secs": 6.31,
+   "fps": 60,
+   "job": "Alchemist",
+   "date": "2026-10-19",
+   "bytes": 1798404
+  }
+ },
+ "ASC_BREAKER": {
+  "bytes": 452614,
+  "frames": 30,
+  "h": 286,
+  "w": 1609
+ },
+ "ASC_EDP": {
+  "bytes": 782680,
+  "frames": 30,
+  "h": 286,
+  "w": 1255
+ },
+ "ASC_METEORASSAULT": {
+  "bytes": 408604,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "AS_ENCHANTPOISON": {
+  "bytes": 1024674,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 159,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Assassin",
+   "date": "2026-10-19",
+   "bytes": 1240134
+  }
+ },
+ "AS_GRIMTOOTH": {
+  "bytes": 762678,
+  "frames": 40,
+  "h": 346,
+  "w": 1997,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 158,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Assassin",
+   "date": "2026-10-19",
+   "bytes": 1204568
+  }
+ },
+ "AS_POISONREACT": {
+  "bytes": 504488,
+  "frames": 30,
+  "h": 286,
+  "w": 695,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 162,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Assassin",
+   "date": "2026-10-19",
+   "bytes": 1246585
+  }
+ },
+ "AS_SONICBLOW": {
+  "bytes": 874442,
+  "frames": 40,
+  "h": 346,
+  "w": 919,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 257,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Assassin",
+   "date": "2026-10-19",
+   "bytes": 1944264
+  }
+ },
+ "AS_SPLASHER": {
+  "bytes": 924456,
+  "frames": 40,
+  "h": 346,
+  "w": 989,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 349,
+   "secs": 9.31,
+   "fps": 60,
+   "job": "Assassin",
+   "date": "2026-10-19",
+   "bytes": 2428240
+  }
+ },
+ "AS_VENOMDUST": {
+  "bytes": 1021830,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 180,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Assassin",
+   "date": "2026-10-19",
+   "bytes": 1334616
+  }
+ },
+ "BA_APPLEIDUN": {
+  "bytes": 784914,
+  "frames": 30,
+  "h": 286,
+  "w": 857,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 201,
+   "secs": 5.61,
+   "fps": 60,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 1828498
+  }
+ },
+ "BA_ASSASSINCROSS": {
+  "bytes": 1209160,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 213,
+   "secs": 5.6,
+   "fps": 60,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 1826019
+  }
+ },
+ "BA_DISSONANCE": {
+  "bytes": 1349242,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 202,
+   "secs": 5.62,
+   "fps": 60,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 1748870
+  }
+ },
+ "BA_FROSTJOKE": {
+  "bytes": 616044,
+  "frames": 40,
+  "h": 346,
+  "w": 1065,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 148,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 1076979
+  }
+ },
+ "BA_PANGVOICE": {
+  "bytes": 743430,
+  "frames": 40,
+  "h": 346,
+  "w": 1067,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 235,
+   "secs": 5.29,
+   "fps": 60,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 1608333
+  }
+ },
+ "BA_POEMBRAGI": {
+  "bytes": 1239684,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 304,
+   "secs": 5.6,
+   "fps": 60,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 1890569
+  }
+ },
+ "BA_WHISTLE": {
+  "bytes": 1206008,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 297,
+   "secs": 5.6,
+   "fps": 60,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 1896456
+  }
+ },
+ "BD_ADAPTATION": {
+  "bytes": 610098,
+  "frames": 30,
+  "h": 286,
+  "w": 751,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 103,
+   "secs": 4.3,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 201262
+  }
+ },
+ "BD_DRUMBATTLEFIELD": {
+  "bytes": 1050912,
+  "frames": 40,
+  "h": 346,
+  "w": 843,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 136,
+   "secs": 5.79,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 377952
+  }
+ },
+ "BD_ETERNALCHAOS": {
+  "bytes": 1267738,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 143,
+   "secs": 5.8,
+   "job": "Bard",
+   "date": "2026-10-18",
+   "bytes": 363768
+  }
+ },
+ "BD_INTOABYSS": {
+  "bytes": 1065720,
+  "frames": 40,
+  "h": 346,
+  "w": 847,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 139,
+   "secs": 5.79,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 371406
+  }
+ },
+ "BD_LULLABY": {
+  "bytes": 1064552,
+  "frames": 40,
+  "h": 346,
+  "w": 879,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 128,
+   "secs": 5.77,
+   "job": "Bard",
+   "date": "2026-10-18",
+   "bytes": 355852
+  }
+ },
+ "BD_RICHMANKIM": {
+  "bytes": 1055762,
+  "frames": 40,
+  "h": 346,
+  "w": 833,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 118,
+   "secs": 5.79,
+   "job": "Bard",
+   "date": "2026-10-18",
+   "bytes": 371897
+  }
+ },
+ "BD_RINGNIBELUNGEN": {
+  "bytes": 1079348,
+  "frames": 40,
+  "h": 346,
+  "w": 873,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 189,
+   "secs": 7.8,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 395041
+  }
+ },
+ "BD_ROKISWEIL": {
+  "bytes": 1251184,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 199,
+   "secs": 8.31,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 535682
+  }
+ },
+ "BD_SIEGFRIED": {
+  "bytes": 1097184,
+  "frames": 40,
+  "h": 346,
+  "w": 875,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 145,
+   "secs": 5.77,
+   "job": "Bard",
+   "date": "2026-10-19",
+   "bytes": 371579
+  }
+ },
+ "BS_ADRENALINE": {
+  "bytes": 1264426,
+  "frames": 40,
+  "h": 346,
+  "w": 1187,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 197,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Blacksmith",
+   "date": "2026-10-19",
+   "bytes": 1474166
+  }
+ },
+ "BS_ADRENALINE2": {
+  "bytes": 1233338,
+  "frames": 40,
+  "h": 346,
+  "w": 1185,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 185,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Blacksmith",
+   "date": "2026-10-19",
+   "bytes": 1471848
+  }
+ },
+ "BS_HAMMERFALL": {
+  "bytes": 988506,
+  "frames": 40,
+  "h": 346,
+  "w": 913,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 168,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Blacksmith",
+   "date": "2026-10-19",
+   "bytes": 1647333
+  }
+ },
+ "BS_MAXIMIZE": {
+  "bytes": 781724,
+  "frames": 30,
+  "h": 286,
+  "w": 821,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 199,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Blacksmith",
+   "date": "2026-10-19",
+   "bytes": 2057185
+  }
+ },
+ "BS_OVERTHRUST": {
+  "bytes": 440624,
+  "frames": 30,
+  "h": 286,
+  "w": 1323,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 218,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Blacksmith",
+   "date": "2026-10-19",
+   "bytes": 1127885
+  }
+ },
+ "BS_REPAIRWEAPON": {
+  "bytes": 567750,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 662,
+   "secs": 16.3,
+   "fps": 60,
+   "job": "Blacksmith",
+   "date": "2026-10-19",
+   "bytes": 3414674
+  }
+ },
+ "BS_WEAPONPERFECT": {
+  "bytes": 683494,
+  "frames": 30,
+  "h": 286,
+  "w": 747,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 194,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Blacksmith",
+   "date": "2026-10-19",
+   "bytes": 1284978
+  }
+ },
+ "CG_ARROWVULCAN": {
+  "bytes": 605390,
+  "frames": 30,
+  "h": 286,
+  "w": 2197
+ },
+ "CG_LONGINGFREEDOM": {
+  "bytes": 400636,
+  "frames": 30,
+  "h": 286,
+  "w": 625
+ },
+ "CG_MARIONETTE": {
+  "bytes": 521564,
+  "frames": 30,
+  "h": 286,
+  "w": 1161
+ },
+ "CG_MOONLIT": {
+  "bytes": 340718,
+  "frames": 30,
+  "h": 286,
+  "w": 699
+ },
+ "CG_SPECIALSINGER": {
+  "bytes": 928296,
+  "frames": 30,
+  "h": 286,
+  "w": 1519
+ },
+ "CG_TAROTCARD": {
+  "bytes": 458252,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "CR_ACIDDEMONSTRATION": {
+  "bytes": 921348,
+  "frames": 40,
+  "h": 346,
+  "w": 1067,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 241,
+   "secs": 5.32,
+   "fps": 60,
+   "job": "Creator",
+   "date": "2026-10-19",
+   "bytes": 2897348
+  }
+ },
+ "CR_CULTIVATION": {
+  "bytes": 949970,
+  "frames": 40,
+  "h": 346,
+  "w": 797,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 191,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Creator",
+   "date": "2026-10-19",
+   "bytes": 1285873
+  }
+ },
+ "CR_DEFENDER": {
+  "bytes": 660944,
+  "frames": 30,
+  "h": 286,
+  "w": 775,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 225,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Crusader",
+   "date": "2026-10-19",
+   "bytes": 1435254
+  }
+ },
+ "CR_DEVOTION": {
+  "bytes": 531966,
+  "frames": 30,
+  "h": 286,
+  "w": 931,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 161,
+   "secs": 7.31,
+   "job": "Crusader",
+   "date": "2026-10-18",
+   "bytes": 439281
+  }
+ },
+ "CR_FULLPROTECTION": {
+  "bytes": 536760,
+  "frames": 30,
+  "h": 286,
+  "w": 851,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 235,
+   "secs": 5.3,
+   "fps": 60,
+   "job": "Creator",
+   "date": "2026-10-19",
+   "bytes": 1584597
+  }
+ },
+ "CR_GRANDCROSS": {
+  "bytes": 691494,
+  "frames": 30,
+  "h": 286,
+  "w": 755,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 263,
+   "secs": 5.81,
+   "fps": 60,
+   "job": "Crusader",
+   "date": "2026-10-19",
+   "bytes": 1447265
+  }
+ },
+ "CR_HOLYCROSS": {
+  "bytes": 1023540,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 214,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Crusader",
+   "date": "2026-10-19",
+   "bytes": 1649081
+  }
+ },
+ "CR_PROVIDENCE": {
+  "bytes": 716744,
+  "frames": 30,
+  "h": 286,
+  "w": 871,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 171,
+   "secs": 7.27,
+   "job": "Crusader",
+   "date": "2026-10-19",
+   "bytes": 572241
+  }
+ },
+ "CR_REFLECTSHIELD": {
+  "bytes": 663090,
+  "frames": 30,
+  "h": 286,
+  "w": 775,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 217,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Crusader",
+   "date": "2026-10-19",
+   "bytes": 1457523
+  }
+ },
+ "CR_SHIELDBOOMERANG": {
+  "bytes": 1131828,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 187,
+   "secs": 4.28,
+   "fps": 60,
+   "job": "Crusader",
+   "date": "2026-10-19",
+   "bytes": 1198352
+  }
+ },
+ "CR_SHIELDCHARGE": {
+  "bytes": 947478,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 193,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Crusader",
+   "date": "2026-10-19",
+   "bytes": 1233821
+  }
+ },
+ "CR_SHRINK": {
+  "bytes": 406844,
+  "frames": 30,
+  "h": 286,
+  "w": 853,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 212,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Crusader",
+   "date": "2026-10-19",
+   "bytes": 1138817
+  }
+ },
+ "CR_SLIMPITCHER": {
+  "bytes": 1158554,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 281,
+   "secs": 6.29,
+   "fps": 60,
+   "job": "Creator",
+   "date": "2026-10-19",
+   "bytes": 1960997
+  }
+ },
+ "CR_SPEARQUICKEN": {
+  "bytes": 300070,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 214,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Crusader",
+   "date": "2026-10-19",
+   "bytes": 1240221
+  }
+ },
+ "DC_DONTFORGETME": {
+  "bytes": 1389400,
+  "frames": 40,
+  "h": 346,
+  "w": 1185,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 131,
+   "secs": 5.61,
+   "job": "Dancer",
+   "date": "2026-10-18",
+   "bytes": 339373
+  }
+ },
+ "DC_FORTUNEKISS": {
+  "bytes": 1335942,
+  "frames": 40,
+  "h": 346,
+  "w": 1187,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 131,
+   "secs": 5.58,
+   "job": "Dancer",
+   "date": "2026-10-18",
+   "bytes": 337774
+  }
+ },
+ "DC_HUMMING": {
+  "bytes": 1387410,
+  "frames": 40,
+  "h": 346,
+  "w": 1187,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 126,
+   "secs": 5.61,
+   "job": "Dancer",
+   "date": "2026-10-18",
+   "bytes": 339914
+  }
+ },
+ "DC_SCREAM": {
+  "bytes": 496946,
+  "frames": 40,
+  "h": 346,
+  "w": 1185,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 101,
+   "secs": 4.3,
+   "job": "Dancer",
+   "date": "2026-10-18",
+   "bytes": 187091
+  }
+ },
+ "DC_SERVICEFORYOU": {
+  "bytes": 1085678,
+  "frames": 40,
+  "h": 346,
+  "w": 1001,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 135,
+   "secs": 5.59,
+   "job": "Dancer",
+   "date": "2026-10-18",
+   "bytes": 338718
+  }
+ },
+ "DC_UGLYDANCE": {
+  "bytes": 1354158,
+  "frames": 40,
+  "h": 346,
+  "w": 1185,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 135,
+   "secs": 5.6,
+   "job": "Dancer",
+   "date": "2026-10-18",
+   "bytes": 331563
+  }
+ },
+ "DC_WINKCHARM": {
+  "bytes": 653540,
+  "frames": 40,
+  "h": 346,
+  "w": 1067,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 123,
+   "secs": 5.29,
+   "job": "Dancer",
+   "date": "2026-10-19",
+   "bytes": 269756
+  }
+ },
+ "GS_ADJUSTMENT": {
+  "bytes": 716146,
+  "frames": 40,
+  "h": 346,
+  "w": 1185,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 235,
+   "secs": 5.31,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1307767
+  }
+ },
+ "GS_BULLSEYE": {
+  "bytes": 669550,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 265,
+   "secs": 5.3,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1641345
+  }
+ },
+ "GS_DESPERADO": {
+  "bytes": 682932,
+  "frames": 30,
+  "h": 286,
+  "w": 825,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 220,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1210148
+  }
+ },
+ "GS_DISARM": {
+  "bytes": 774938,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 334,
+   "secs": 6.3,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1706515
+  }
+ },
+ "GS_DUST": {
+  "bytes": 739196,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 190,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1277677
+  }
+ },
+ "GS_FLING": {
+  "bytes": 716652,
+  "frames": 40,
+  "h": 346,
+  "w": 1067,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 199,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1087899
+  }
+ },
+ "GS_FULLBUSTER": {
+  "bytes": 841186,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 279,
+   "secs": 5.3,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1639988
+  }
+ },
+ "GS_GATLINGFEVER": {
+  "bytes": 790494,
+  "frames": 40,
+  "h": 346,
+  "w": 1187,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 244,
+   "secs": 5.3,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1271607
+  }
+ },
+ "GS_INCREASING": {
+  "bytes": 540146,
+  "frames": 30,
+  "h": 286,
+  "w": 1169,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 198,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1121387
+  }
+ },
+ "GS_MADNESSCANCEL": {
+  "bytes": 522390,
+  "frames": 30,
+  "h": 286,
+  "w": 853,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 285,
+   "secs": 6.28,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1345794
+  }
+ },
+ "GS_MAGICALBULLET": {
+  "bytes": 434788,
+  "frames": 30,
+  "h": 286,
+  "w": 797,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 192,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1110481
+  }
+ },
+ "GS_PIERCINGSHOT": {
+  "bytes": 578484,
+  "frames": 40,
+  "h": 346,
+  "w": 3743,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 270,
+   "secs": 5.8,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1935435
+  }
+ },
+ "GS_RAPIDSHOWER": {
+  "bytes": 924352,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 206,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1674288
+  }
+ },
+ "GS_SPREADATTACK": {
+  "bytes": 639140,
+  "frames": 40,
+  "h": 346,
+  "w": 851,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 228,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1275355
+  }
+ },
+ "GS_TRACKING": {
+  "bytes": 870862,
+  "frames": 40,
+  "h": 346,
+  "w": 1067,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 337,
+   "secs": 5.8,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1425899
+  }
+ },
+ "GS_TRIPLEACTION": {
+  "bytes": 898264,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 233,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Gunslinger",
+   "date": "2026-10-19",
+   "bytes": 1598788
+  }
+ },
+ "HP_ASSUMPTIO": {
+  "bytes": 490326,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "HT_DETECTING": {
+  "bytes": 934990,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 213,
+   "secs": 4.32,
+   "fps": 60,
+   "job": "Hunter",
+   "date": "2026-10-19",
+   "bytes": 1734093
+  }
+ },
+ "HT_REMOVETRAP": {
+  "bytes": 971784,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 218,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Hunter",
+   "date": "2026-10-19",
+   "bytes": 1077953
+  }
+ },
+ "HT_SKIDTRAP": {
+  "bytes": 1286312,
+  "frames": 40,
+  "h": 346,
+  "w": 1713,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 191,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Hunter",
+   "date": "2026-10-19",
+   "bytes": 1187940
+  }
+ },
+ "HT_SPRINGTRAP": {
+  "bytes": 991952,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 230,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Hunter",
+   "date": "2026-10-19",
+   "bytes": 1805752
+  }
+ },
+ "HW_GANBANTEIN": {
+  "bytes": 500384,
+  "frames": 30,
+  "h": 286,
+  "w": 737
+ },
+ "HW_GRAVITATION": {
+  "bytes": 720644,
+  "frames": 30,
+  "h": 286,
+  "w": 853
+ },
+ "HW_MAGICCRASHER": {
+  "bytes": 359820,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "HW_MAGICPOWER": {
+  "bytes": 468626,
+  "frames": 30,
+  "h": 286,
+  "w": 905
+ },
+ "HW_NAPALMVULCAN": {
+  "bytes": 687008,
+  "frames": 30,
+  "h": 286,
+  "w": 837
+ },
+ "HW_SOULDRAIN": {
+  "bytes": 592456,
+  "frames": 30,
+  "h": 286,
+  "w": 1159
+ },
+ "KN_BOWLINGBASH": {
+  "bytes": 625398,
+  "frames": 40,
+  "h": 346,
+  "w": 801,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 253,
+   "secs": 4.67,
+   "fps": 60,
+   "job": "Knight",
+   "date": "2026-10-19",
+   "bytes": 1985058
+  }
+ },
+ "KN_BRANDISHSPEAR": {
+  "bytes": 1116128,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 202,
+   "secs": 4.64,
+   "fps": 60,
+   "job": "Knight",
+   "date": "2026-10-19",
+   "bytes": 2356034
+  }
+ },
+ "KN_ONEHAND": {
+  "bytes": 815464,
+  "frames": 40,
+  "h": 346,
+  "w": 1185,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 232,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Knight",
+   "date": "2026-10-19",
+   "bytes": 1206290
+  }
+ },
+ "KN_PIERCE": {
+  "bytes": 771764,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 228,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Knight",
+   "date": "2026-10-19",
+   "bytes": 1613061
+  }
+ },
+ "KN_SPEARBOOMERANG": {
+  "bytes": 905832,
+  "frames": 40,
+  "h": 346,
+  "w": 2057,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 200,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Knight",
+   "date": "2026-10-19",
+   "bytes": 1208018
+  }
+ },
+ "KN_SPEARSTAB": {
+  "bytes": 987120,
+  "frames": 40,
+  "h": 346,
+  "w": 1089,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 200,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Knight",
+   "date": "2026-10-19",
+   "bytes": 1330360
+  }
+ },
+ "KN_TWOHANDQUICKEN": {
+  "bytes": 785608,
+  "frames": 40,
+  "h": 346,
+  "w": 1095,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 169,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Knight",
+   "date": "2026-10-19",
+   "bytes": 1199019
+  }
+ },
+ "LK_AURABLADE": {
+  "bytes": 435246,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "LK_BERSERK": {
+  "bytes": 339694,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "LK_CONCENTRATION": {
+  "bytes": 277658,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "LK_FURY": {
+  "bytes": 361236,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "LK_HEADCRUSH": {
+  "bytes": 376920,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "LK_JOINTBEAT": {
+  "bytes": 303246,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "LK_SPIRALPIERCE": {
+  "bytes": 491308,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "MC_CARTREVOLUTION": {
+  "bytes": 866468,
+  "frames": 40,
+  "h": 346,
+  "w": 1113,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 222,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Merchant",
+   "date": "2026-10-19",
+   "bytes": 1820785
+  }
+ },
+ "MC_LOUD": {
+  "bytes": 670528,
+  "frames": 30,
+  "h": 286,
+  "w": 893,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 273,
+   "secs": 5.6,
+   "fps": 60,
+   "job": "Merchant",
+   "date": "2026-10-19",
+   "bytes": 1367524
+  }
+ },
+ "MG_COLDBOLT": {
+  "bytes": 646272,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 422,
+   "secs": 8.7,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 3600286
+  }
+ },
+ "MG_ENERGYCOAT": {
+  "bytes": 332612,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 391,
+   "secs": 9.31,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 2963707
+  }
+ },
+ "MG_FIREBALL": {
+  "bytes": 842384,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 245,
+   "secs": 5.3,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 1626199
+  }
+ },
+ "MG_FIREBOLT": {
+  "bytes": 1152816,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 395,
+   "secs": 8.7,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 3809876
+  }
+ },
+ "MG_FIREWALL": {
+  "bytes": 1377362,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 222,
+   "secs": 5.0,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 2055485
+  }
+ },
+ "MG_FROSTDIVER": {
+  "bytes": 762208,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 239,
+   "secs": 5.1,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 1575134
+  }
+ },
+ "MG_LIGHTNINGBOLT": {
+  "bytes": 1280566,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 392,
+   "secs": 8.71,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 3312313
+  }
+ },
+ "MG_NAPALMBEAT": {
+  "bytes": 1240736,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 230,
+   "secs": 4.8,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 1585319
+  }
+ },
+ "MG_SAFETYWALL": {
+  "bytes": 1402772,
+  "frames": 40,
+  "h": 346,
+  "w": 1187,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 228,
+   "secs": 4.7,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 1698033
+  }
+ },
+ "MG_SIGHT": {
+  "bytes": 1393632,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 220,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 2215880
+  }
+ },
+ "MG_SOULSTRIKE": {
+  "bytes": 1448664,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 202,
+   "secs": 4.79,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 2047132
+  }
+ },
+ "MG_SRECOVERY": {
+  "bytes": 1149844,
+  "frames": 40,
+  "h": 346,
+  "w": 1175
+ },
+ "MG_STONECURSE": {
+  "bytes": 1185274,
+  "frames": 40,
+  "h": 346,
+  "w": 1123,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 228,
+   "secs": 5.31,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 1783702
+  }
+ },
+ "MG_THUNDERSTORM": {
+  "bytes": 1319946,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 466,
+   "secs": 10.31,
+   "fps": 60,
+   "job": "Magician",
+   "date": "2026-10-19",
+   "bytes": 3168855
+  }
+ },
+ "MO_ABSORBSPIRITS": {
+  "bytes": 579638,
+  "frames": 30,
+  "h": 286,
+  "w": 1187,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 210,
+   "secs": 4.8,
+   "fps": 60,
+   "job": "Monk",
+   "date": "2026-10-19",
+   "bytes": 1399390
+  }
+ },
+ "MO_EXPLOSIONSPIRITS": {
+  "bytes": 1254692,
+  "frames": 40,
+  "h": 346,
+  "w": 1183,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 203,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Monk",
+   "date": "2026-10-19",
+   "bytes": 1684769
+  }
+ },
+ "MO_EXTREMITYFIST": {
+  "bytes": 1082884,
+  "frames": 40,
+  "h": 346,
+  "w": 971,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 297,
+   "secs": 6.31,
+   "fps": 60,
+   "job": "Monk",
+   "date": "2026-10-19",
+   "bytes": 3367366
+  }
+ },
+ "MO_FINGEROFFENSIVE": {
+  "bytes": 889136,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 240,
+   "secs": 5.3,
+   "fps": 60,
+   "job": "Monk",
+   "date": "2026-10-19",
+   "bytes": 2502845
+  }
+ },
+ "MO_INVESTIGATE": {
+  "bytes": 715766,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 461,
+   "secs": 10.3,
+   "fps": 60,
+   "job": "Monk",
+   "date": "2026-10-19",
+   "bytes": 2851521
+  }
+ },
+ "MO_STEELBODY": {
+  "bytes": 998924,
+  "frames": 40,
+  "h": 346,
+  "w": 801,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 439,
+   "secs": 9.29,
+   "fps": 60,
+   "job": "Monk",
+   "date": "2026-10-19",
+   "bytes": 3349942
+  }
+ },
+ "MO_TRIPLEATTACK": {
+  "bytes": 722272,
+  "frames": 40,
+  "h": 346,
+  "w": 1185,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 197,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Monk",
+   "date": "2026-10-19",
+   "bytes": 1241564
+  }
+ },
+ "NJ_BAKUENRYU": {
+  "bytes": 1039420,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 380,
+   "secs": 7.1,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 2415689
+  }
+ },
+ "NJ_HUUJIN": {
+  "bytes": 879444,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 443,
+   "secs": 9.79,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 2955188
+  }
+ },
+ "NJ_HYOUSENSOU": {
+  "bytes": 795450,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 484,
+   "secs": 11.31,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 3271917
+  }
+ },
+ "NJ_HYOUSYOURAKU": {
+  "bytes": 778282,
+  "frames": 30,
+  "h": 286,
+  "w": 997,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 405,
+   "secs": 7.6,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 1899949
+  }
+ },
+ "NJ_ISSEN": {
+  "bytes": 810284,
+  "frames": 40,
+  "h": 346,
+  "w": 1031,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 224,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 2143192
+  }
+ },
+ "NJ_KAMAITACHI": {
+  "bytes": 970752,
+  "frames": 40,
+  "h": 346,
+  "w": 1155,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 297,
+   "secs": 5.8,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 2033458
+  }
+ },
+ "NJ_KASUMIKIRI": {
+  "bytes": 903366,
+  "frames": 40,
+  "h": 346,
+  "w": 1157,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 236,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 1406126
+  }
+ },
+ "NJ_KIRIKAGE": {
+  "bytes": 843662,
+  "frames": 40,
+  "h": 346,
+  "w": 1067,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 259,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 2336829
+  }
+ },
+ "NJ_KOUENKA": {
+  "bytes": 965964,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 615,
+   "secs": 11.3,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 3577459
+  }
+ },
+ "NJ_RAIGEKISAI": {
+  "bytes": 1524900,
+  "frames": 40,
+  "h": 346,
+  "w": 1155,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 375,
+   "secs": 6.31,
+   "fps": 60,
+   "job": "Ninja",
+   "date": "2026-10-19",
+   "bytes": 1696034
+  }
+ },
+ "NV_FIRSTAID": {
+  "bytes": 409092,
+  "frames": 30,
+  "h": 286,
+  "w": 855,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 258,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Novice",
+   "date": "2026-10-19",
+   "bytes": 1091186
+  }
+ },
+ "NV_HELPANGEL": {
+  "bytes": 631158,
+  "frames": 30,
+  "h": 286,
+  "w": 677,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 252,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Novice",
+   "date": "2026-10-19",
+   "bytes": 1610700
+  }
+ },
+ "PA_PRESSURE": {
+  "bytes": 665998,
+  "frames": 30,
+  "h": 286,
+  "w": 929
+ },
+ "PA_SACRIFICE": {
+  "bytes": 363730,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "PA_SHIELDCHAIN": {
+  "bytes": 498700,
+  "frames": 30,
+  "h": 286,
+  "w": 1709
+ },
+ "PF_DOUBLECASTING": {
+  "bytes": 383680,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "PF_HPCONVERSION": {
+  "bytes": 588894,
+  "frames": 30,
+  "h": 286,
+  "w": 711
+ },
+ "PF_MEMORIZE": {
+  "bytes": 431928,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "PF_MINDBREAKER": {
+  "bytes": 592714,
+  "frames": 30,
+  "h": 286,
+  "w": 857
+ },
+ "PF_SOULBURN": {
+  "bytes": 452744,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "PF_SOULCHANGE": {
+  "bytes": 636526,
+  "frames": 30,
+  "h": 286,
+  "w": 755
+ },
+ "PR_ASPERSIO": {
+  "bytes": 760716,
+  "frames": 30,
+  "h": 286,
+  "w": 801,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 255,
+   "secs": 4.27,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 1882413
+  }
+ },
+ "PR_BENEDICTIO": {
+  "bytes": 1568120,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 106,
+   "secs": 4.27,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 584774
+  }
+ },
+ "PR_GLORIA": {
+  "bytes": 598478,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 250,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 1415341
+  }
+ },
+ "PR_IMPOSITIO": {
+  "bytes": 607050,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 337,
+   "secs": 5.81,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 1882416
+  }
+ },
+ "PR_KYRIE": {
+  "bytes": 786640,
+  "frames": 30,
+  "h": 286,
+  "w": 865,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 374,
+   "secs": 6.3,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 2254366
+  }
+ },
+ "PR_LEXAETERNA": {
+  "bytes": 1527302,
+  "frames": 40,
+  "h": 346,
+  "w": 1155,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 257,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 1555866
+  }
+ },
+ "PR_LEXDIVINA": {
+  "bytes": 1532036,
+  "frames": 40,
+  "h": 346,
+  "w": 1173,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 258,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 1489079
+  }
+ },
+ "PR_MACEMASTERY": {
+  "bytes": 1373064,
+  "frames": 40,
+  "h": 346,
+  "w": 1187
+ },
+ "PR_MAGNIFICAT": {
+  "bytes": 709324,
+  "frames": 30,
+  "h": 286,
+  "w": 735,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 486,
+   "secs": 8.3,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 2508695
+  }
+ },
+ "PR_MAGNUS": {
+  "bytes": 1297700,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 550,
+   "secs": 9.29,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 5093356
+  }
+ },
+ "PR_SANCTUARY": {
+  "bytes": 1321180,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 544,
+   "secs": 9.3,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 3653473
+  }
+ },
+ "PR_SLOWPOISON": {
+  "bytes": 683578,
+  "frames": 30,
+  "h": 286,
+  "w": 749,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 251,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 1554999
+  }
+ },
+ "PR_STRECOVERY": {
+  "bytes": 780590,
+  "frames": 30,
+  "h": 286,
+  "w": 821,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 253,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 2071729
+  }
+ },
+ "PR_SUFFRAGIUM": {
+  "bytes": 688856,
+  "frames": 30,
+  "h": 286,
+  "w": 719,
+  "mp4": {
+   "w": 688,
+   "h": 404,
+   "frames": 138,
+   "secs": 5.79,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 593900
+  }
+ },
+ "PR_TURNUNDEAD": {
+  "bytes": 1105976,
+  "frames": 40,
+  "h": 346,
+  "w": 1169,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 318,
+   "secs": 5.29,
+   "fps": 60,
+   "job": "Priest",
+   "date": "2026-10-19",
+   "bytes": 2321873
+  }
+ },
+ "RG_BACKSTAP": {
+  "bytes": 851302,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 259,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Rogue",
+   "date": "2026-10-19",
+   "bytes": 2002574
+  }
+ },
+ "RG_CLOSECONFINE": {
+  "bytes": 825354,
+  "frames": 40,
+  "h": 346,
+  "w": 1871,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 252,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Rogue",
+   "date": "2026-10-19",
+   "bytes": 1123170
+  }
+ },
+ "RG_INTIMIDATE": {
+  "bytes": 743040,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 302,
+   "secs": 5.29,
+   "fps": 60,
+   "job": "Rogue",
+   "date": "2026-10-19",
+   "bytes": 2074568
+  }
+ },
+ "RG_RAID": {
+  "bytes": 556852,
+  "frames": 30,
+  "h": 286,
+  "w": 821,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 254,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Rogue",
+   "date": "2026-10-19",
+   "bytes": 1746321
+  }
+ },
+ "RG_STEALCOIN": {
+  "bytes": 774834,
+  "frames": 40,
+  "h": 346,
+  "w": 913,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 259,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Rogue",
+   "date": "2026-10-19",
+   "bytes": 1521202
+  }
+ },
+ "RG_STRIPARMOR": {
+  "bytes": 674018,
+  "frames": 40,
+  "h": 346,
+  "w": 1157,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 348,
+   "secs": 5.81,
+   "fps": 60,
+   "job": "Rogue",
+   "date": "2026-10-19",
+   "bytes": 1502126
+  }
+ },
+ "RG_STRIPHELM": {
+  "bytes": 746644,
+  "frames": 40,
+  "h": 346,
+  "w": 1083,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 349,
+   "secs": 5.81,
+   "fps": 60,
+   "job": "Rogue",
+   "date": "2026-10-19",
+   "bytes": 1493070
+  }
+ },
+ "RG_STRIPSHIELD": {
+  "bytes": 718108,
+  "frames": 40,
+  "h": 346,
+  "w": 1025,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 349,
+   "secs": 5.8,
+   "fps": 60,
+   "job": "Rogue",
+   "date": "2026-10-19",
+   "bytes": 1535050
+  }
+ },
+ "RG_STRIPWEAPON": {
+  "bytes": 741120,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 347,
+   "secs": 5.8,
+   "fps": 60,
+   "job": "Rogue",
+   "date": "2026-10-19",
+   "bytes": 1511593
+  }
+ },
+ "RL_B_FLICKER_ATK": {
+  "bytes": 96214,
+  "frames": 30,
+  "h": 286,
+  "w": 300
+ },
+ "RL_FALLEN_ANGEL": {
+  "bytes": 619390,
+  "frames": 30,
+  "h": 286,
+  "w": 825
+ },
+ "RL_HAMMER_OF_GOD": {
+  "bytes": 436082,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "RL_MASS_SPIRAL": {
+  "bytes": 448534,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "RL_P_ALTER": {
+  "bytes": 341128,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "RL_QD_SHOT": {
+  "bytes": 385828,
+  "frames": 30,
+  "h": 286,
+  "w": 691
+ },
+ "RL_R_TRIP": {
+  "bytes": 520824,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SA_DELUGE": {
+  "bytes": 1052222,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 535,
+   "secs": 9.31,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 7009559
+  }
+ },
+ "SA_DISPELL": {
+  "bytes": 765102,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 353,
+   "secs": 6.31,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 1814757
+  }
+ },
+ "SA_ELEMENTFIRE": {
+  "bytes": 757324,
+  "frames": 40,
+  "h": 346,
+  "w": 1033,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 366,
+   "secs": 6.29,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 2407416
+  }
+ },
+ "SA_ELEMENTGROUND": {
+  "bytes": 746540,
+  "frames": 40,
+  "h": 346,
+  "w": 1041,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 363,
+   "secs": 6.29,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 2246352
+  }
+ },
+ "SA_ELEMENTWATER": {
+  "bytes": 803002,
+  "frames": 40,
+  "h": 346,
+  "w": 957,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 377,
+   "secs": 6.3,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 2303850
+  }
+ },
+ "SA_ELEMENTWIND": {
+  "bytes": 850976,
+  "frames": 40,
+  "h": 346,
+  "w": 1135,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 379,
+   "secs": 6.31,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 2271549
+  }
+ },
+ "SA_FLAMELAUNCHER": {
+  "bytes": 848802,
+  "frames": 40,
+  "h": 346,
+  "w": 1163,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 378,
+   "secs": 6.31,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 1541201
+  }
+ },
+ "SA_FROSTWEAPON": {
+  "bytes": 760092,
+  "frames": 40,
+  "h": 346,
+  "w": 827,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 378,
+   "secs": 6.31,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 1429553
+  }
+ },
+ "SA_LANDPROTECTOR": {
+  "bytes": 1220850,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 551,
+   "secs": 9.31,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 9021793
+  }
+ },
+ "SA_LIGHTNINGLOADER": {
+  "bytes": 607470,
+  "frames": 40,
+  "h": 346,
+  "w": 807,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 376,
+   "secs": 6.31,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 1442747
+  }
+ },
+ "SA_MAGICROD": {
+  "bytes": 530278,
+  "frames": 30,
+  "h": 286,
+  "w": 943,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 259,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 1278798
+  }
+ },
+ "SA_SEISMICWEAPON": {
+  "bytes": 592362,
+  "frames": 40,
+  "h": 346,
+  "w": 803,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 379,
+   "secs": 6.32,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 1453663
+  }
+ },
+ "SA_SPELLBREAKER": {
+  "bytes": 959772,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 300,
+   "secs": 4.99,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 3759430
+  }
+ },
+ "SA_VIOLENTGALE": {
+  "bytes": 1241204,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 553,
+   "secs": 9.3,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 6185589
+  }
+ },
+ "SA_VOLCANO": {
+  "bytes": 1109716,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 558,
+   "secs": 9.29,
+   "fps": 60,
+   "job": "Sage",
+   "date": "2026-10-19",
+   "bytes": 6268300
+  }
+ },
+ "SJ_FLASHKICK": {
+  "bytes": 339514,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SJ_PROMINENCEKICK": {
+  "bytes": 474274,
+  "frames": 30,
+  "h": 286,
+  "w": 623
+ },
+ "SJ_STAREMPEROR": {
+  "bytes": 555390,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SM_ENDURE": {
+  "bytes": 426794,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 259,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Swordman",
+   "date": "2026-10-19",
+   "bytes": 1235965
+  }
+ },
+ "SM_MAGNUM": {
+  "bytes": 493898,
+  "frames": 30,
+  "h": 286,
+  "w": 689,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 259,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Swordman",
+   "date": "2026-10-19",
+   "bytes": 1353485
+  }
+ },
+ "SM_PROVOKE": {
+  "bytes": 1003354,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 257,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Swordman",
+   "date": "2026-10-19",
+   "bytes": 1469949
+  }
+ },
+ "SN_FALCONASSAULT": {
+  "bytes": 502070,
+  "frames": 30,
+  "h": 286,
+  "w": 855
+ },
+ "SN_SHARPSHOOTING": {
+  "bytes": 433634,
+  "frames": 30,
+  "h": 286,
+  "w": 1717
+ },
+ "SN_SIGHT": {
+  "bytes": 729476,
+  "frames": 30,
+  "h": 286,
+  "w": 801
+ },
+ "SN_WINDWALK": {
+  "bytes": 393626,
+  "frames": 30,
+  "h": 286,
+  "w": 853
+ },
+ "SP_KAUTE": {
+  "bytes": 610088,
+  "frames": 30,
+  "h": 286,
+  "w": 687
+ },
+ "SP_SOULCURSE": {
+  "bytes": 376500,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SP_SOULFAIRY": {
+  "bytes": 662730,
+  "frames": 30,
+  "h": 286,
+  "w": 851
+ },
+ "SP_SOULFALCON": {
+  "bytes": 669580,
+  "frames": 30,
+  "h": 286,
+  "w": 851
+ },
+ "SP_SOULGOLEM": {
+  "bytes": 677072,
+  "frames": 30,
+  "h": 286,
+  "w": 849
+ },
+ "SP_SOULSHADOW": {
+  "bytes": 678102,
+  "frames": 30,
+  "h": 286,
+  "w": 849
+ },
+ "SP_SOULUNITY": {
+  "bytes": 567564,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "SP_SWHOO": {
+  "bytes": 541408,
+  "frames": 30,
+  "h": 286,
+  "w": 875
+ },
+ "ST_FULLSTRIP": {
+  "bytes": 424746,
+  "frames": 30,
+  "h": 286,
+  "w": 617
+ },
+ "ST_PRESERVE": {
+  "bytes": 328760,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "ST_REJECTSWORD": {
+  "bytes": 490088,
+  "frames": 30,
+  "h": 286,
+  "w": 617
+ },
+ "TF_DETOXIFY": {
+  "bytes": 304720,
+  "frames": 30,
+  "h": 286,
+  "w": 759,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 258,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Thief",
+   "date": "2026-10-19",
+   "bytes": 1112614
+  }
+ },
+ "TF_SPRINKLESAND": {
+  "bytes": 747154,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 251,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Thief",
+   "date": "2026-10-19",
+   "bytes": 1199936
+  }
+ },
+ "TF_STEAL": {
+  "bytes": 709364,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 258,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Thief",
+   "date": "2026-10-19",
+   "bytes": 1103397
+  }
+ },
+ "TK_COUNTER": {
+  "bytes": 399290,
+  "frames": 30,
+  "h": 286,
+  "w": 843,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 258,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Taekwon",
+   "date": "2026-10-19",
+   "bytes": 1494579
+  }
+ },
+ "TK_DOWNKICK": {
+  "bytes": 528722,
+  "frames": 30,
+  "h": 286,
+  "w": 1159,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 258,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Taekwon",
+   "date": "2026-10-19",
+   "bytes": 1616763
+  }
+ },
+ "TK_HIGHJUMP": {
+  "bytes": 414332,
+  "frames": 30,
+  "h": 286,
+  "w": 899,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 318,
+   "secs": 5.29,
+   "fps": 60,
+   "job": "Taekwon",
+   "date": "2026-10-19",
+   "bytes": 3280267
+  }
+ },
+ "TK_JUMPKICK": {
+  "bytes": 830014,
+  "frames": 40,
+  "h": 346,
+  "w": 3505,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 257,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Taekwon",
+   "date": "2026-10-19",
+   "bytes": 2481997
+  }
+ },
+ "TK_RUN": {
+  "bytes": 604332,
+  "frames": 40,
+  "h": 346,
+  "w": 1089,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 240,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Taekwon",
+   "date": "2026-10-19",
+   "bytes": 7067385
+  }
+ },
+ "TK_SEVENWIND": {
+  "bytes": 667556,
+  "frames": 30,
+  "h": 286,
+  "w": 1009,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 258,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Taekwon",
+   "date": "2026-10-19",
+   "bytes": 1462183
+  }
+ },
+ "TK_STORMKICK": {
+  "bytes": 688418,
+  "frames": 30,
+  "h": 286,
+  "w": 775,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 258,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Taekwon",
+   "date": "2026-10-19",
+   "bytes": 1696939
+  }
+ },
+ "TK_TURNKICK": {
+  "bytes": 526792,
+  "frames": 30,
+  "h": 286,
+  "w": 1183,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 259,
+   "secs": 4.31,
+   "fps": 60,
+   "job": "Taekwon",
+   "date": "2026-10-19",
+   "bytes": 1541159
+  }
+ },
+ "WS_CARTBOOST": {
+  "bytes": 580890,
+  "frames": 30,
+  "h": 286,
+  "w": 607
+ },
+ "WS_CARTTERMINATION": {
+  "bytes": 465296,
+  "frames": 30,
+  "h": 286,
+  "w": 681
+ },
+ "WS_MELTDOWN": {
+  "bytes": 501544,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "WS_OVERTHRUSTMAX": {
+  "bytes": 413684,
+  "frames": 30,
+  "h": 286,
+  "w": 603
+ },
+ "WZ_EARTHSPIKE": {
+  "bytes": 742532,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 520,
+   "secs": 8.72,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 3176215
+  }
+ },
+ "WZ_FIREIVY": {
+  "bytes": 577690,
+  "frames": 30,
+  "h": 286,
+  "w": 941
+ },
+ "WZ_FIREPILLAR": {
+  "bytes": 1442834,
+  "frames": 40,
+  "h": 346,
+  "w": 1403,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 270,
+   "secs": 4.54,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 1829417
+  }
+ },
+ "WZ_FROSTNOVA": {
+  "bytes": 268944,
+  "frames": 30,
+  "h": 286,
+  "w": 603,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 286,
+   "secs": 4.78,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 1341799
+  }
+ },
+ "WZ_HEAVENDRIVE": {
+  "bytes": 803124,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 419,
+   "secs": 7.0,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 1978673
+  }
+ },
+ "WZ_ICEWALL": {
+  "bytes": 513490,
+  "frames": 40,
+  "h": 346,
+  "w": 813,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 259,
+   "secs": 4.3,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 1110499
+  }
+ },
+ "WZ_JUPITEL": {
+  "bytes": 1007136,
+  "frames": 40,
+  "h": 346,
+  "w": 1193,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 518,
+   "secs": 8.62,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 3981500
+  }
+ },
+ "WZ_METEOR": {
+  "bytes": 1150810,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 727,
+   "secs": 12.11,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 6699124
+  }
+ },
+ "WZ_QUAGMIRE": {
+  "bytes": 787156,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 258,
+   "secs": 4.29,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 5261538
+  }
+ },
+ "WZ_SIGHTBLASTER": {
+  "bytes": 1276260,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 355,
+   "secs": 5.91,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 1634747
+  }
+ },
+ "WZ_SIGHTRASHER": {
+  "bytes": 682720,
+  "frames": 30,
+  "h": 286,
+  "w": 821,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 283,
+   "secs": 4.71,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 2461561
+  }
+ },
+ "WZ_STORMGUST": {
+  "bytes": 1340070,
+  "frames": 40,
+  "h": 346,
+  "w": 1027,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 724,
+   "secs": 12.09,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 7877757
+  }
+ },
+ "WZ_VERMILION": {
+  "bytes": 1319006,
+  "frames": 40,
+  "h": 346,
+  "w": 1175,
+  "mp4": {
+   "w": 1360,
+   "h": 768,
+   "frames": 619,
+   "secs": 10.31,
+   "fps": 60,
+   "job": "Wizard",
+   "date": "2026-10-19",
+   "bytes": 7603990
+  }
+ },
+ "WZ_WATERBALL": {
+  "bytes": 797564,
+  "frames": 40,
+  "h": 346,
+  "w": 1871
+ }
+}
